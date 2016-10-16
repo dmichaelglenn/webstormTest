@@ -1,7 +1,9 @@
 {
   "name": "testFrontEnd",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "cors": "^2.8.1"
+  },
   "scripts": {
     "test": "gulp test"
   },
